@@ -885,7 +885,7 @@ export default function Portfolio() {
       { name: 'Bootstrap', level: 100, color: 'from-purple-500 to-pink-500' },
       { name: 'HTML5', level: 100, color: 'from-orange-500 to-red-500' },
       { name: 'CSS3', level: 100, color: 'from-blue-400 to-blue-600' },
-      { name: 'Tailwind CSS', level: 95, color: 'from-teal-400 to-teal-600' },
+      { name: 'Tailwind CSS', level: 100, color: 'from-teal-400 to-teal-600' },
       { name: 'Redux', level: 100, color: 'from-purple-500 to-purple-700' }
     ],
     backend: [
